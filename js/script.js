@@ -74,6 +74,7 @@ async function displayTVDetails() {
   const tvID = await fetchApiData(`tv/${tvDetails}`);
   console.log(tvID);
   displayBackgroundImage('tv', tvID.backdrop_path);
+  console.log("test");
 };
 
 // Movie Details Page
