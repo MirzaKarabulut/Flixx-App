@@ -1,4 +1,4 @@
-IMDB CLONE
+# IMDB CLONE
 
 This is a simplified version of IMDb, implemented using HTML, CSS, and JavaScript. It allows users to browse through a collection of movies, view details about each movie, and search for movies by title.
 
